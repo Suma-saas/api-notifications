@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    stack:
+      auto: false
+    region:
+      static: us-east-2
+      auto: false
+    credentials:
+      access-key: AKIARIZX276ZWLF7243P
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-2.amazonaws.com/087627071411/Cotizaciones_completas
